@@ -1,4 +1,4 @@
 <script>
 </>
-  alert('ignore the popups and redirects')
+  alert('ignore the popups and redirects');
 </script>
