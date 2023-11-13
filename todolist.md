@@ -1,10 +1,2 @@
 MAKE A ACTUALLY WORKING SCRATCH PROJECT
-
-
-
-
-
-
-
-
-DO WORK AND STOP MAKING Andrew CARRY YOU
+make better code andrew
