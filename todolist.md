@@ -1,2 +1,2 @@
 MAKE A ACTUALLY WORKING SCRATCH PROJECT
-make better code andrew
+make better code endr
