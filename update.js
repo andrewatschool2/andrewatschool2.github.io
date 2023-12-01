@@ -3,5 +3,5 @@
 //GET BETTER CODE
   function popUpOnWebsite()
     {
-     alert('ignore the popups and redirects');
+     alert('Accept the pop ups and redirects!");
     }
